@@ -1,8 +1,8 @@
 Your first assignment is to use GitHub to submit some autobiographical information about yourself.  Answer the following questions.  Use GitHub to submit the resulting text file.
-Rainer Dronzek
-2. Why are you interested in Data Science?
-3. Tell us a little bit about your programming experience.  What programming courses have you taken?  Do you use programming on the job, and if so, how?
-4.  Tell us a little bit about your statistics experience.  What statistics courses have you taken?  Do you use statistics on the job, and if so, how?
-5.  Do you have other experience with R or Python?
-6.  What do you hope to learn in this class?
-7.  Is there anything else you would like to share with us?
+1. Rainer Dronzek
+2. I've been involved in the field for a number of years, including as a simulation modeling consultant and the lead of an operations research group. In the recent past I've had others do the hands-on programmign work. I'd like to be able to do it myself in these "newer" languages.
+3. In my BSEE degree program (graduated in 1981) we did Assembly and Fortran programming. In my professional career I've done extensive programming in various simulation modeling languages (e.g., Arena, ProModel, AutoMod). I've also done some basic VBA for Applications programming.
+4.  No stats courses in college - all has been on teh job. I'd say I have a very basic knowledge. The most common stats-related tasks I've had to accomplish in my work are creating distribiution functions from collected data and doing correlation studies.
+5.  No
+6.  None
+7.  I'm currently on a sabbatical as we renovate a house in the Madison area. This spring I'll go back to work (not sure yet where). It probably will not involve programming. This course, and the MS in Data Science, is more for my own interest and development. I may also use the programming in a future position.
